@@ -11,32 +11,32 @@ class Directory extends React.Component{
         this.state = {
             sections: [ {
                 title: 'hats',
-                imageUrl: 'https://images.pexels.com/photos/984619/pexels-photo-984619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
+                imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
                 id: 1,
                 linkUrl: 'hats'
               },
               {
                 title: 'jackets',
-                imageUrl: 'https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
+                imageUrl: 'https://i.ibb.co/px2tCc3/jackets.png',
                 id: 2,
                 linkUrl: 'jackets'
               },
               {
                 title: 'sneakers',
-                imageUrl: 'https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
+                imageUrl: 'https://i.ibb.co/0jqHpnp/sneakers.png',
                 id: 3,
                 linkUrl: 'sneakers'
               },
               {
                 title: 'womens',
-                imageUrl: 'https://images.pexels.com/photos/1803467/pexels-photo-1803467.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
+                imageUrl: 'https://i.ibb.co/GCCdy8t/womens.png',
                 size: 'large',
                 id: 4,
                 linkUrl: 'womens'
               },
               {
                 title: 'mens',
-                imageUrl: 'https://images.pexels.com/photos/1964970/pexels-photo-1964970.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
+                imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
                 size: 'large',
                 id: 5,
                 linkUrl: 'mens'
